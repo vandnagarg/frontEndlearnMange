@@ -1,0 +1,23 @@
+{
+  "name": "evaluationweb1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dist/server.js"
+  },
+  
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mysql": "^2.15.0",
+    "mysql2": "^1.5.3",
+    "nodemon": "^1.17.4",
+    "sequelize": "^4.37.7",
+    "sqlite": "^2.9.1",
+    "sqlite3": "^4.0.0",
+    "typescript": "^2.8.3"
+  }
+}
